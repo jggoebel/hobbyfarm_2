@@ -33,4 +33,3 @@ jobs:
       env:
         CR_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
         CR_PAGES_BRANCH: "master"
-        CR_INDEX_PATH: "./docs/index.yaml"
