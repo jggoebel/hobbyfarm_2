@@ -14,7 +14,7 @@ jobs:
     # actions/checkout@v1 must be included to checkout the repo
     - uses: actions/checkout@v2
       with: 
-        fetch-depth: 0
+        fetch-depth: 2
 
     - name: check if version was bumped
       run: git diff HEAD~1 charts/hobbyfarm/Chart.yaml | grep 'version:'
