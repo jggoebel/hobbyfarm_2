@@ -2,15 +2,15 @@ apiVersion: v1
 entries:
   hobbyfarm:
   - apiVersion: v1
-    created: "2022-01-05T11:20:23.150515972Z"
+    created: "2022-01-24T08:14:06.573549757Z"
     description: interactive coding platform in a browser
-    digest: b5d1905a6adc69faf0abfa4bb8fa61acdda3df1c46b7444e5d6329148316cffe
+    digest: d6c70582b28bdc3412536fcfb20d4855428f654e4a50cad5d610b7b0c3340742
     name: hobbyfarm
     sources:
     - https://github.com/jggoebel/hobbyfarm2
     urls:
-    - https://github.com/jggoebel/hobbyfarm_2/releases/download/hobbyfarm-0.4.9/hobbyfarm-0.4.9.tgz
-    version: 0.4.9
+    - https://github.com/jggoebel/hobbyfarm_2/releases/download/hobbyfarm-0.5.0/hobbyfarm-0.5.0.tgz
+    version: 0.5.0
   - apiVersion: v1
     created: "2021-10-13T02:42:13.724934328Z"
     description: interactive coding platform in a browser
